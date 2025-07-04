@@ -1,0 +1,6 @@
+@Resilience_InActionWithPolly_HostAddress = http://localhost:5294
+
+GET {{Resilience_InActionWithPolly_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
